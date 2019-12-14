@@ -1,0 +1,42 @@
+" A common refrain among theoretical physicists is that the fields of quantum field theory are the “real” entities while the particles they represent are images like the shadows in Plato's cave. As one who did experimental particle physics for forty years before retiring in 2000, I say, “Wait a minute!” No one has ever measured a quantum field, or even a classical electric, magnetic, or gravitational field. No one has ever measured a wavicle, the term used to describe the so-called wavelike properties of a particle. You always measure localized particles. The interference patterns you observe in sending light through slits are not seen in the measurements of individual photons, just in the statistical distributions of an ensemble of many photons. To me, it is the particle that comes closest to reality. But then, I cannot prove it is real either."
+
+~ Victor J. Stenger, The Fallacy of Fine-Tuning: Why the Universe Is Not Designed for Us.
+
+Yes it's innteresting indeed. I subscribe to the 'interactional picture', which coincides with Bohr's complimentarity as well as Feynman's absorber theory - so of course you don't measure the "wavelike nature", because that nature corresponds to the interaction itself, not the one sided data read scientists make themselves aware of.
+
+To make the point, realize that when these physicists say "you always measure localized particles", they aren't necessariliy mistaken, yet never can they measure ALL of a particle. And indeed, by way of Uncertainty, specifying their locality in space or time means you're missing their intensity.
+
+This is to illustrate the fact that when one says they're measuring particles, what they mean is, they are unitarily correlating measuring operators with the sum of the particle's state vectors, and nonunitarily scattering the rest. It's like bobbing for apples; not only can you not fit the whole in your mouth, but if you try bitting a bit, you're more likely to push it away. Compromises must be made, and those compromises are up to the experimenter.
+
+There is much to this predicament beyond Uncertainty, yet it's an important place to stop because what we mean by "what is real" and "what is illusory" is ultimately related to what we know and can know. What we know is that particles have what we call "quantum numbers" - these are conserved observables. If you're a fan of thinking tables or rocks are definitely "real", then an argument you can make against an "illusory" table or rock is that its properties change or are generally different. Unlike tables and rocks however, the microscopic world is beyond our typical senses. Therefore, I'd reason that judging what is real and what isn't within this realm is an unfair dichotomy. That's because we have no good comparisons.   
+
+Judging whether the electron's wavefunction or the measured electron is 'the real deal' is a tricky matter - both linguistically and physically.
+
+Linguistically, we might be imposing a false dichotomy. Or maybe instead of a dichotomy we're imposing a causal or categorical heirarchy, then the question of fundementality comes into play (ie., what supervenes what - if at all). But above all, we must leave our ontology at the door if we want a practical answer. 
+
+Physically, whereas the wavefunction of the electron contains all of the information relevant to the electron, the measured electron only contains some of that information (limited by Uncertainty). Yet what's measured is what's measured of course! Sure, but we don't say the wind IS the bending of the leaves. I hope you can appreciate the ambiguity here.
+
+To my mind there are 3 things being confused:
+
+1 'electron' as a physical account for a sum of measurable properties.
+
+2 'measured electron' as parts of those properties translated by detectors.
+
+3 'electron's wavefunction' as a probabalistic distribution of the 1st.
+
+The 1st is a physical concept, a useful meme.
+The 2nd is what we have access to epistomologically.
+The 3rd is another physical concept, yet a generalization of the 1st.
+
+It is ridiculous to argue whether the 1st and the 3rd are real or illusory. Moreover, arguing whether anything is real or illusory on an ontological level is unfalsifiable madness. But that may be beside the point, perhaps the question is more about 'what begets what', or perhaps whether one or the other is 'merely mathematical'.
+
+To the question of fundementality, it is almost overt that the 1st begets the 3rd, for one cannot have a probability distribution of a thing without having the thing. In that sense then the quote seems correct. Yet one can as well argue that the more general thing is more fundamental (like rectange > square). And, in terms of which is more or less mathematical, it's safe to say the 1st and 3rd stand on equivalent footing. That's because only the 2nd can be measured and therefore reasonably discussed outside of mathematics. Nevertheless it remains a tricky issue, both linguistically and physically.
+
+Personally I subscribe to the 'Interactional Picture', which provides a useful physical account of all 3. This picture forces us to think of the electron and its measurement as a single process - the state vectors of the electon and the measuring operators (which act on the electron's wavefunction) both change in time.
+By this process, the wavefunction is unitarily reduced to an observed value. For comparison, the typical approach has the measuring operator unchanging as it reduces the wavefunction to observables. By uncertainty, this means only some of the electron's states are observed (those which entangle with the operator), whereas others are scattered nonunitarily. The benifit of the Interactional Picture then, is that it sets the measurement on equal ground with the wavefunction itself. So whereas Uncertainty sill keeps us from knowing all of the electron's states (assuming we know all of our detector states), we can still have a unitary interaction - in which no information is lost.
+
+Looking into this more broadly, we may be reminded of 'wave particle duality' - which is like asking if sound waves are made of vibrations or particles (except with microscopic objects). In the case of sound it is clear the air particles combine to make waves. Yet it's important to realize what we are doing here and why it is we're doing it: We're abstracting elements into statistical distribuitions, which are supervenient upon those elements. We do this because it's a convenient description, not because one is right and the other is wrong - afterall it's 'sound' we're describing, which is a vague if not multifaceted notion in itself.
+
+Yet when there is no medium for waves to propogate, or when there is no explanation for atoms seemingly interacting with themselves, we mathematically impose the missing pieces (so that we may have coherence) and attempt to explain the additions physically. If we could explain these things differently, we would - and when we do, the more efficent idea will last.
+
+This is what happened within the quantum paradigm: We realized we cannot know all aspects of elements like the electron, and so we went up one layer of abstraction adn put their missing pieces into the wavefunction. The question of fundamentality is moot, as is the question of 'realism' (as they generally are). What is more important is the question of how we can best model reality to match experiment, and if the wavefunction is a part of that scientific process (as it very well is), then it's here to stay.

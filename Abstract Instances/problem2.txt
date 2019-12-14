@@ -1,0 +1,43 @@
+the computability of the uverse can be viewed usefully as a topological unfolding. GR is an important example, and we as individuals can also see ourselves as spikes in the manifold, relative processing speeds. we orient ourseleves towards best \beta i.e., c. you can think of it entropically of course, as localizations of minimizing free-energy, or heat, - aka maximizing negentropy. but it's so complex idk how we do it. collectively i suppose. then i wonder what happens when an organism like us dies? we continue, you don't. and what's left isn't gone, but it's certainly never returning. and we're putting off a lot of heat, collectively we're fuming.
+
+there's a balancing act - well, it can be very violent by our standards. on the one hand gravity coalesces matter, and energy. 
+
+better yet, energy naturally coalesces itself, and by that act matter emerges and does likewise with more nuance.
+
+and on the other hand, this matter and energy fights back.
+
+so generally it's a resistance, a dissonance or toltal one sidedness. though when resonant, new things like suns form.
+
+i would say it's obvious how suns would be mere fucntions of mass density, but that calculation is relative to the 'amount of gravity' as well.
+
+and importantly such resonances are necessarily periodic, with wave speeds limited by c^2. subjective to us as c.
+
+thus the star goes through phases, during one of which burst out an asymetric radial shell of matter and energy; seeds for our planetary garden. once again such stuff coalesces together, despite the expanding universe. perhaps 'more gravity' is actually just where the expansion is weaker, assuming again that energy attracts itself naturally.
+
+if energy is the charge of the gravitational field, it makes sense for electromagnetic sign to be the 'charge' of the EM field. though of course it's the EM + GR field. where at resonance one gets stable atoms. and further resonances eventually somehow stablize long and challengingly enough to evolve us here now.
+
+oddly enough though we dissonate from our parents, perhaps as a way of spreading. eventually, if we're talking type 2civ, we'd return to our parental sun.
+
+start from velocity c as vector length in vector field, field can have no divergece, no curl, but if it does have a curl equivalent to a new radial velocity, then you have vorticity. and apparently the square of that summed over space is called "enstrophy".
+
+probability density = int(wavefunction^2), over space.
+likewise enstrophy = int(vorticity^2), over space.
+
+it's all the contiunity equation of flow-resistivity /change in density being equivalent to the net divergence / convergence.
+
+
+gradient as vector field, demonstrating steepest asscent.
+
+laplacian as how much bigger or smaller a point is relative to it's neighbors. similar to the second derivativem
+
+scalar function = divergence of vector field
+
+
+
+
+
+
+
+
+
+
